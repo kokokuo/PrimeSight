@@ -22,7 +22,7 @@ For GoodsRecognitionSystems, focused on detecting items/products, recognizing it
   <img src="../master/PrimeSight-function-1.jpg?raw=true">
 </p>
 
-# Environment
+# Development Environment
 1. C# 5.0
 2. .NET Framework 4.5
 3. EmguCV 2.4.0 for Windows x86
