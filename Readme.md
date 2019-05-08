@@ -7,6 +7,17 @@ The PrimeSight Software project was built by BlindAidProject and GoodsRecognitio
 
 For GoodsRecognitionSystems, focused on detecting items/products, recognizing it from RGB Images to tell blind people by audio feedbacks.
 
+
+**<p align="center">Product Introduction</p>**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kokokuo/PrimeSight/master/PrimeSight-function-2.jpg?token=ABJDXRJNP3F2XJ5LXNHNO6K42KHDC">
+</p>
+ 
+**<p align="center">Product Function Scenario</p>**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kokokuo/PrimeSight/master/PrimeSight-function-1.jpg?token=ABJDXRM6VSDVAQP2QJQALXC42KHGA">
+</p>
+
 # Environment
 1. C# 5.0
 2. .NET Framework 4.5
