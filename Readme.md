@@ -1,5 +1,9 @@
 # PrimeSight
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kokokuo/PrimeSight/master/PrimeSight-logo.png?token=ABJDXROVDQAKYW6KZJ4LVDC42KHWI">
+</p>
+
 ## Description
 PrimeSight, also called Pal or Technology Quill, as a wearable device, aims to alert the blind with vibration and audio feedbacks when barriers appear, also with the feature of identifying similar items/products and built in 2013. With the info/message services provided, our device enhances the safety and convenience which traditional assistance tools such as white canes can provide.
 
