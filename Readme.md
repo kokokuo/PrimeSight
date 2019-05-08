@@ -14,12 +14,12 @@ For GoodsRecognitionSystems, focused on detecting items/products, recognizing it
 
 **<p align="center">Product Introduction</p>**
 <p align="center">
-  <img src="../blob/master/PrimeSight-function-2.png?raw=true">
+  <img src="../PrimeSight-function-2.jpg?raw=true">
 </p>
  
 **<p align="center">Product Function Scenario</p>**
 <p align="center">
-  <img src="../blob/master/PrimeSight-function-1.png?raw=true">
+  <img src="../PrimeSight-function-1.jpg?raw=true">
 </p>
 
 # Environment
