@@ -1,7 +1,7 @@
 # PrimeSight
 
 <p align="center">
-  <img src="https://drive.google.com/open?id=1FJU6SOR8vkmhuF9PaEARY4aCqcaRI3V0">
+  <img src="../blob/master/PrimeSight-logo.png?raw=true">
 </p>
 
 ## Description
@@ -14,12 +14,12 @@ For GoodsRecognitionSystems, focused on detecting items/products, recognizing it
 
 **<p align="center">Product Introduction</p>**
 <p align="center">
-  <img src="https://drive.google.com/open?id=1GNX_HEUeEoz2HUddSRXoA3GQJ9ExLmw3">
+  <img src="../blob/master/PrimeSight-function-2.png?raw=true">
 </p>
  
 **<p align="center">Product Function Scenario</p>**
 <p align="center">
-  <img src="https://drive.google.com/open?id=1MNeNn9q2ian2NIeOMEcDFtYA89epDFFJ">
+  <img src="../blob/master/PrimeSight-function-1.png?raw=true">
 </p>
 
 # Environment
