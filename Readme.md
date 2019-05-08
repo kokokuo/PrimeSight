@@ -1,7 +1,7 @@
 # PrimeSight
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kokokuo/PrimeSight/master/PrimeSight-logo.png?token=ABJDXROVDQAKYW6KZJ4LVDC42KHWI">
+  <img src="https://drive.google.com/open?id=1FJU6SOR8vkmhuF9PaEARY4aCqcaRI3V0">
 </p>
 
 ## Description
@@ -14,12 +14,12 @@ For GoodsRecognitionSystems, focused on detecting items/products, recognizing it
 
 **<p align="center">Product Introduction</p>**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kokokuo/PrimeSight/master/PrimeSight-function-2.jpg?token=ABJDXRJNP3F2XJ5LXNHNO6K42KHDC">
+  <img src="https://drive.google.com/open?id=1GNX_HEUeEoz2HUddSRXoA3GQJ9ExLmw3">
 </p>
  
 **<p align="center">Product Function Scenario</p>**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kokokuo/PrimeSight/master/PrimeSight-function-1.jpg?token=ABJDXRM6VSDVAQP2QJQALXC42KHGA">
+  <img src="https://drive.google.com/open?id=1MNeNn9q2ian2NIeOMEcDFtYA89epDFFJ">
 </p>
 
 # Environment
