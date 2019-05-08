@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodsRecognitionSystem.ToolKits", "..\GoodsRecognitionSystem.ToolKits\GoodsRecognitionSystem.ToolKits.csproj", "{C78BF934-59A7-493B-B9EA-CDADF7B10209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodsRecognitionSystem.Recognition", "..\GoodsRecognitionSystem.Recognition\GoodsRecognitionSystem.Recognition.csproj", "{EFE0AE58-CF74-451F-9385-07B70A005549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoodsRecognitionSystem.FeatureLearning", "..\GoodsRecognitionSystem.FeatureLearning\GoodsRecognitionSystem.FeatureLearning.csproj", "{220AA9BA-D74F-4C57-911E-DAE1D8F48AED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C78BF934-59A7-493B-B9EA-CDADF7B10209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78BF934-59A7-493B-B9EA-CDADF7B10209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78BF934-59A7-493B-B9EA-CDADF7B10209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78BF934-59A7-493B-B9EA-CDADF7B10209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE0AE58-CF74-451F-9385-07B70A005549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE0AE58-CF74-451F-9385-07B70A005549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE0AE58-CF74-451F-9385-07B70A005549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE0AE58-CF74-451F-9385-07B70A005549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{220AA9BA-D74F-4C57-911E-DAE1D8F48AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{220AA9BA-D74F-4C57-911E-DAE1D8F48AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{220AA9BA-D74F-4C57-911E-DAE1D8F48AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{220AA9BA-D74F-4C57-911E-DAE1D8F48AED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

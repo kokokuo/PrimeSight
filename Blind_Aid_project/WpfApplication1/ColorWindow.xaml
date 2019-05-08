@@ -1,0 +1,9 @@
+﻿<Window x:Class="WpfApplication1.ColorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ColorWindow" Height="480" Width="1280">
+    <StackPanel Orientation="Horizontal">
+        <Image x:Name="ColorData" Height="480" Width="620"/>
+        <Image x:Name="DepthData" Height="480" Width="620"/>
+    </StackPanel>     
+</Window>

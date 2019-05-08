@@ -1,0 +1,22 @@
+﻿<Window x:Class="GoodsRecognitionSampleApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Goods Recognition System Sample App" Height="768" Width="1024">
+    <Grid>
+        <GroupBox Header="Step 1 : Take a picture(enter z key)" HorizontalAlignment="Left" Margin="30,407,0,0" VerticalAlignment="Top" Height="279" Width="346">
+            <Image x:Name="catchImageViewer" Margin="10,10,0,0" Height="240" VerticalAlignment="Top" HorizontalAlignment="Left" Width="320"/>
+        </GroupBox>
+        <GroupBox Header="Kinect Color Image" HorizontalAlignment="Left" Margin="41,25,0,0" VerticalAlignment="Top" Height="275" Width="335">
+            <Image Margin="0,10,0,0" Height="240" VerticalAlignment="Top" HorizontalAlignment="Left" Width="320" Name="colorImageViewer"/>
+        </GroupBox>
+        <GroupBox Header="Kinect Depth Image" HorizontalAlignment="Left" Margin="391,25,0,0" VerticalAlignment="Top" Height="275" Width="335">
+            <Image Margin="0,10,0,0" Height="240" VerticalAlignment="Top" HorizontalAlignment="Left" Width="320" Name="depthImageViewer"/>
+        </GroupBox>
+        <Button Content="Combine Color And Depth" HorizontalAlignment="Left" Margin="773,43,0,0" VerticalAlignment="Top" Width="164" Name="combineDepthToImgButton" Click="combineDepthToImgButton_Click"/>
+        <GroupBox Header="Step 2 : Split match Image" HorizontalAlignment="Left" Margin="391,407,0,0" VerticalAlignment="Top" Height="279" Width="337">
+            <Image Margin="0,10,0,0" Height="240" VerticalAlignment="Top" HorizontalAlignment="Left" Width="320" Name="matchImage"/>
+        </GroupBox>
+        <Button Content="Fliter Noise" HorizontalAlignment="Left" Margin="790,97,0,0" VerticalAlignment="Top" Width="130" Name="filterNoiseButton"/>
+
+    </Grid>
+</Window>
