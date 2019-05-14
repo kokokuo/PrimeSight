@@ -1,6 +1,6 @@
 # PrimeSight
 
-中文 Readme [請選我](../master/Chinese.md)
+中文 Readme **[請選我](../master/Chinese.md)**
 
 <p align="center">
   <img src="../master/PrimeSight-logo.png?raw=true">
@@ -39,4 +39,4 @@ For GoodsRecognitionSystems, focused on detecting items/products, recognizing it
 - Timo Ho : Product design, visual design, logo design, wearable device design.
 
 # Demo Video
-You could watch the demo from the [Video Link](https://www.youtube.com/watch?v=Dsgz4IEIZW4)
+You could watch the demo from the **[Video Link](https://www.youtube.com/watch?v=Dsgz4IEIZW4)**
