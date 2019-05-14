@@ -1,5 +1,7 @@
 # PrimeSight
 
+中文 Readme [請選我](../master/Chinese.md)
+
 <p align="center">
   <img src="../master/PrimeSight-logo.png?raw=true">
 </p>
