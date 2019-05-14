@@ -37,3 +37,6 @@ For GoodsRecognitionSystems, focused on detecting items/products, recognizing it
 - Mark Pan : Product testing, Project management, communication, contact and resources collection.
 - Eason Kuo : software development and analyzed RGB Image to recognized objects and environments.
 - Timo Ho : Product design, visual design, logo design, wearable device design.
+
+# Demo Video
+You could watch the demo from the [Video Link](https://www.youtube.com/watch?v=Dsgz4IEIZW4)
