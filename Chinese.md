@@ -39,4 +39,4 @@ Team  Members：
 - Timo Ho : 產品設計、平面設計、 logo 設計與穿戴式設備設計
 
 # Demo 影片
-你可以透過此連結看到遊戲的 Demo 影片： [影片連結](https://www.youtube.com/watch?v=Dsgz4IEIZW4)
+你可以透過此連結看到遊戲的 Demo 影片： **[影片連結](https://www.youtube.com/watch?v=Dsgz4IEIZW4)**
